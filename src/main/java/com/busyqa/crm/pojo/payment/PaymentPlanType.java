@@ -1,0 +1,8 @@
+package com.busyqa.crm.pojo.payment;
+
+public enum PaymentPlanType {
+	FULL_AMOUNT__FULL_PAY, INSENTIVE__FULL_PAY, 
+	FULL_AMOUNT__PLAN__CREDIT_AUTO, INSENTIVE__PLAN__CREDIT_AUTO,
+	FULL_AMOUNT__PLAN__MANUAL, INSENTIVE__PLAN__MANUAL
+	
+}

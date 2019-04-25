@@ -1,0 +1,5 @@
+firstName,lastName,studentEmail,contact,CourseType,Status,Batch,Year,Comments
+John,Doe,johndoe@gmail.com,111-111-1111,Full-Stack Java Developer,Register,Winter,2019,comment
+Alice,LAlice,Alice@gmail.com,222-222-2222,Project Management,Register,Winter,2019,comment
+Mary,LMary,Mary@gmail.com,333-333-3333,Business Analyst,Register,Winter,2019,comment
+Bob,LBob,Bob@gmail.com,444-444-4444,Software Testing,Register,Winter,2019,comment
